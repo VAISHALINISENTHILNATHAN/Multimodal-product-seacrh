@@ -1,0 +1,21 @@
+# Core
+numpy
+pandas
+tqdm
+
+# Embeddings / ML
+torch
+torchvision
+transformers
+sentence-transformers
+
+
+# Vector Search
+faiss-cpu
+
+# UI
+streamlit
+
+# Utility
+scikit-learn
+
